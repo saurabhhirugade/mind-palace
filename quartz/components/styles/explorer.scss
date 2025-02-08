@@ -1,6 +1,7 @@
 @use "../../styles/variables.scss" as *;
 
 .explorer {
+  font-family: 'Segoe UI','Helvetica Neue', sans-serif;
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
